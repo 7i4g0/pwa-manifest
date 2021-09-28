@@ -1,7 +1,7 @@
 {
   "name": "PWA Test Manifest",
   "short_name": "PWA Test Manifest",
-  "start_url": ".",
+  "start_url": "app/",
   "display": "standalone",
   "background_color": "#fff",
   "description": "A simple test PWA manifest to webapp.",

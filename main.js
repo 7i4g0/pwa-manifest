@@ -1,4 +1,4 @@
-let deferredPrompt; // Allows to show the install prompt
+var deferredPrompt; // Allows to show the install prompt
 let setupButton;
 
 window.addEventListener('beforeinstallprompt', (e) => {

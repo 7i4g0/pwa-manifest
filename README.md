@@ -1,4 +1,4 @@
 # pwa-manifest
-Example manifest to PWA
+Example manifest + service worker + offline mode to PWA
 
-In your smartphone [click here](https://surrealmultimidia.com.br/app) to see
+[click here](https://pwa-manifest.vercel.app/) to see

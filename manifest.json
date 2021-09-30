@@ -43,14 +43,5 @@
       "type": "image/png"
     }
   ],
-  "prefer_related_applications": false,
-  "related_applications": [
-    {
-      "platform": "web"
-    },
-    {
-      "platform": "play",
-      "url": "https://play.google.com/store/apps/details?id=com.google.android.webview"
-    }
-  ]
+  "prefer_related_applications": false
 }
